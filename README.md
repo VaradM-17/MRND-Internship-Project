@@ -41,8 +41,22 @@
     <li>Run the Java application.</li>
 </ol>
 
+<h2>Team Collaboration</h2>
+<p>This project was developed in equal collaboration with <strong>Tejas Aher</strong>. Both team members contributed equally to various aspects of the application:</p>
+<ul>
+    <li>Jointly designed the backend and database integration, implementing the business logic for managing loan enquiries.</li>
+    <li>Collaborated on the frontend, using Swing, Applet, and AWT to create an intuitive user interface.</li>
+    <li>Worked together on testing, debugging, and finalizing the application to ensure seamless functionality and user experience.</li>
+</ul>
+<p>This balanced teamwork ensured a smooth integration of all components and led to the successful delivery of a reliable Loan Finance System within the project timeline.</p>
+
 <h2>Contact</h2>
 <p>For questions or feedback, feel free to reach out via email: <a href="mailto:varadmule17@gmail.com">varadmule17@gmail.com</a>.</p>
+<p>GitHub Profiles:</p>
+<ul>
+    <li><a href="https://github.com/your-username">Varad Mule</a></li>
+    <li><a href="https://github.com/Tejas767">Tejas Aher</a></li>
+</ul>
 
 </body>
 </html>
