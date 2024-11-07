@@ -42,7 +42,7 @@
 </ol>
 
 <h2>Team Collaboration</h2>
-<p>This project was developed in equal collaboration with <strong>Tejas Aher</strong>. Both team members contributed equally to various aspects of the application:</p>
+<p>This project was developed in equal collaboration with <strong><a href="https://github.com/Tejas767">Tejas Aher</a></strong>. Both team members contributed equally to various aspects of the application:</p>
 <ul>
     <li>Jointly designed the backend and database integration, implementing the business logic for managing loan enquiries.</li>
     <li>Collaborated on the frontend, using Swing, Applet, and AWT to create an intuitive user interface.</li>
