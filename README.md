@@ -58,7 +58,7 @@
 </ul>
 <p>GitHub Profiles:</p>
 <ul>
-    <li><a href="https://github.com/your-username">Varad Mule</a></li>
+    <li><a href="https://github.com/VaradM-17">Varad Mule</a></li>
     <li><a href="https://github.com/Tejas767">Tejas Aher</a></li>
 </ul>
 <p>LinkedIn Profiles:</p>
