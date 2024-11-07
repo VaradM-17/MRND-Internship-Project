@@ -63,7 +63,7 @@
 </ul>
 <p>LinkedIn Profiles:</p>
 <ul>
-    <li><a href="https://www.linkedin.com/in/your-profile">Varad Mule</a></li>
+    <li><a href="https://www.linkedin.com/in/varadmule17">Varad Mule</a></li>
     <li><a href="https://www.linkedin.com/in/tejas-profile">Tejas Aher</a></li>
 </ul>
 </body>
