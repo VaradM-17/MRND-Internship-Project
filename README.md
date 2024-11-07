@@ -51,12 +51,17 @@
 <p>This balanced teamwork ensured a smooth integration of all components and led to the successful delivery of a reliable Loan Finance System within the project timeline.</p>
 
 <h2>Contact</h2>
-<p>For questions or feedback, feel free to reach out via email: <a href="mailto:varadmule17@gmail.com">varadmule17@gmail.com</a>.</p>
+<p>For questions or feedback, feel free to reach out via email:</p>
+<ul>
+    <li><a href="mailto:varadmule17@gmail.com">Varad Mule (varadmule17@gmail.com)</a></li>
+    <li><a href="mailto:tejas.email@example.com">Tejas Aher (tejas.email@example.com)</a></li>
+</ul>
 <p>GitHub Profiles:</p>
 <ul>
     <li><a href="https://github.com/your-username">Varad Mule</a></li>
     <li><a href="https://github.com/Tejas767">Tejas Aher</a></li>
 </ul>
+
 
 </body>
 </html>
