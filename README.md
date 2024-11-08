@@ -54,7 +54,7 @@
 <p>For questions or feedback, feel free to reach out via email:</p>
 <ul>
     <li><a href="mailto:varadmule17@gmail.com">Varad Mule (varadmule17@gmail.com)</a></li>
-    <li><a href="mailto:tejas.email@example.com">Tejas Aher (tejas.email@example.com)</a></li>
+    <li><a href="mailto:tejasaher767@gmail.com">Tejas Aher (tejasaher767@gmail.com)</a></li>
 </ul>
 <p>GitHub Profiles:</p>
 <ul>
